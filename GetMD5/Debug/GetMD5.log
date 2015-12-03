@@ -1,0 +1,14 @@
+﻿生成启动时间为 2015/6/17 16:32:38。
+     1>项目“E:\project\GetMD5\GetMD5\GetMD5.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt H:\FS\CODE\GetMD5.cpp H:\FS\CODE\md5.cpp
+         md5.cpp
+     1>h:\fs\code\md5.cpp(25): fatal error C1083: 无法打开包括文件: “stdafx.h”: No such file or directory
+         GetMD5.cpp
+     1>h:\fs\code\getmd5.cpp(1): fatal error C1083: 无法打开包括文件: “stdafx.h”: No such file or directory
+         正在生成代码...
+     1>已完成生成项目“E:\project\GetMD5\GetMD5\GetMD5.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.33
